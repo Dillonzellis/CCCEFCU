@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="css/custom.css" type="text/css" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="js/masterslider/style/masterslider.css" />
-    <link rel="stylesheet" href="./css/style-de.css">
+    <link rel="stylesheet" href="css/style-de.css">
 
     <!-- Document Title
 	============================================= -->
@@ -127,20 +127,18 @@ Dividerrrrrrrrrrr
 		============================================= -->
     <section id="content" style="background: url('images/coweta-bg.jpg') no-repeat; background-size: cover;">
         <div class="content-wrap cowFacts">
-            <div class="container clearfix" align="center">
+            <div class="container center-container">
 
                 <h2 style="font-size: 2.7vw;">Coweta Cities & County EFCU<br>
                     Your Immediate Family</h2>
+
                 <p style="font-size: 1.7vw;">The mission of Coweta Cities and County Employees Federal Credit Union is to provide quality, low cost financial services to our members.</p>
-                <a href="about.php" class="button button-border button-light button-rounded button-reveal text-right button-large d-md-inline-block"><i class="icon-angle-right"></i><span>Learn More</span></a>
 
+                <a href="about.php" class="button button-border button-light button-rounded button-reveal text-right button-large d-md-inline-block">
+                    <i class="icon-angle-right"></i>
+                    <span>Learn More</span>
+                </a>
             </div>
-
-
-
-
-
-
         </div>
     </section><!-- #content end -->
 
