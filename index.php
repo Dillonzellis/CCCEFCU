@@ -130,9 +130,11 @@ Dividerrrrrrrrrrr
             <div class="container center-container">
 
                 <h2 style="font-size: 2.7vw;">Coweta Cities & County EFCU<br>
-                    Your Immediate Family</h2>
+                    Your Immediate Family
+                </h2>
 
-                <p style="font-size: 1.7vw;">The mission of Coweta Cities and County Employees Federal Credit Union is to provide quality, low cost financial services to our members.</p>
+                <p style="font-size: 1.7vw;">The mission of Coweta Cities and County Employees Federal Credit Union is to provide quality, low cost financial services to our members.
+                </p>
 
                 <a href="about.php" class="button button-border button-light button-rounded button-reveal text-right button-large d-md-inline-block">
                     <i class="icon-angle-right"></i>

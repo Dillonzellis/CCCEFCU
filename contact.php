@@ -180,7 +180,7 @@
                                                         </div>
 
                                                         <div class="col-12 form-group d-none">
-                                                            <input type="text" id="template-contactform-botcheck" name="template-contactform-botcheck" value="" class="sm-form-control" />
+                                                            <input type="text" id="template-contactform-botcheck" name="template-contactform-botcheck" value="" class="sm-form-control" aria-label="contact form bot check"/>
                                                         </div>
 
                                                         <div class="col-12 form-group">
